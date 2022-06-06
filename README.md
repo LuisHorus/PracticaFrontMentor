@@ -1,4 +1,6 @@
 # Frontend Mentor - Clipboard landing page
+Se realiza la siguiente pagina con la ayuda de Front Mentor 
+su servidor Luis Escobedo copio el diseño de la imagen y lo implemento con HTML y CSS3
 
 ![Design preview for the Clipboard landing page coding challenge](./design/desktop-preview.jpg)
 
